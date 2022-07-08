@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Kate McCurley, a first year student at Olin College of Engineering, and I use any pronouns 😄
+
 <!--
 **cmccurley22/cmccurley22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
