@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm Kate McCurley, a sophomore at Olin College of Engineering 😄
-Pronouns: any
 
 Some of the things I'm working on include:
 - 📡 Research with the [Olin Satellite + Spectrum Technology & Policy Group](https://github.com/OSSTP) developing a satellite interference calculator
