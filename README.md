@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kate McCurley, a sophomore at Olin College of Engineering 😄
+I'm Kate McCurley, a rising junior at Olin College of Engineering 😄
 <!--
 **cmccurley22/cmccurley22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
